@@ -1,0 +1,493 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+
+/* ---- Bloco nav -----*/
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+a:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+#logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 33px;
+  margin-left: 10px;
+}
+#imagem-da-nav-logo{
+  height: 110px;
+  width: 110px;
+}
+
+#header {
+  height: 41px;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f0f0f0;
+  position: fixed;
+  width: 97%;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0px 3px 3px 0px  black;
+}
+
+#menu {
+  display: flex;
+  list-style: none;
+  gap: 0.5rem;
+}
+
+#menu a {
+  display: block;
+  padding: 0.5rem;
+}
+
+#btn-mobile {
+  display: none;
+}
+/* ---- Fim do Bloco nav -----*/
+
+
+/*  Começo template do site  */
+
+.Container{
+width: 100%;
+height: 490px;
+gap: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-bottom: 60px;
+flex-wrap: wrap;
+background-color: #4d31ee;
+margin-top: 75px;
+
+
+
+}.Bloco-1{
+  width: 600px;
+  height: 650px;
+  margin-left: 0px;
+  margin-right: 10px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+#Icone{
+  font-size: 80px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#Bloco-Escrita{
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.Bloco-1 h1{
+  margin-left: 30px;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+ color: aliceblue;
+
+ 
+}.Bloco-1 h4{
+  
+font-family: 'Noto Sans KR', sans-serif;
+font-size: 31px;
+margin-bottom: 0px;
+margin-top: 10px;
+}
+
+.Bloco-1 p{
+
+  font-family: 'Inter', sans-serif;
+font-size: 23px;
+font-weight: 500;
+color: rgb(233, 239, 245);
+
+
+}
+#Button-Template{
+  margin-top: 10px;
+  margin-left: 40px;
+  width: 245px;
+  height: 50px;
+  border-radius: 100px;
+  border: 4px solid black;
+  font-family: 'Inter', sans-serif;
+  cursor: pointer;
+}
+#Button-Template i{
+  font-size: 18px;
+}
+
+
+.Bloco-2{
+  width: 490px;
+  height: 650px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+
+
+.Bloco-2 #Logo{
+width: 370px;
+height: 370px;
+border-radius: 1000px;
+display: flex;
+background-color: #f0f0f0;
+position: relative;
+top: 70px;
+left: 30px;
+
+}
+#Imagem-template-inicio-site{
+width: 500px;
+height: 410px;
+position: relative;
+bottom: 290px;
+right: 70px;
+}
+#imagem-template-mobile-inicio-site{
+  width: 170px;
+height: 170px;
+visibility: hidden;
+}
+
+
+/*  Caixa de template   */
+
+.Regra{
+width: 900px;
+margin-top: 40px;
+background-color: #f5efef;
+border-radius: 10px;
+display: flex;
+gap: 5px;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+padding-top: 5px;
+position: relative;
+bottom: 210px;
+box-shadow: 1px 1px 10px 1px black;
+}
+#Caixa-1{
+  width: 290px;
+  height: 190px; 
+  border-right: 5px solid ;
+}#Caixa-1 div{
+  width: 55px;
+  height: 55px;
+  border: 2px solid;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+#Caixa-1 i{
+  font-size: 30px;
+}#Caixa-1 h1{
+  text-align: center;
+  font-family: 'Asap Condensed', sans-serif;
+  font-size: 30px;
+}#Caixa-1 p{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+#Caixa-2{
+  width: 290px;
+  height: 190px;
+
+  border-right: 5px solid ;
+}#Caixa-2 div{
+  width: 55px;
+  height: 55px;
+  border: 2px solid;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+#Caixa-2 i{
+  font-size: 30px;
+}#Caixa-2 h1{
+  text-align: center;
+  font-family: 'Asap Condensed', sans-serif;
+  font-size: 30px;
+}#Caixa-2 p{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+#Caixa-3{
+  width: 290px;
+  height: 190px;
+ 
+}#Caixa-3 div{
+  width: 55px;
+  height: 55px;
+  border: 2px solid;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+#Caixa-3 i{
+  font-size: 30px;
+}#Caixa-3 h1{
+  text-align: center;
+  font-family: 'Asap Condensed', sans-serif;
+  font-size: 30px;
+}#Caixa-3 p{
+ font-size: 18px;
+ font-family: 'Lato', sans-serif;
+ text-align: center;
+}
+
+
+
+
+
+
+.Inicio-site{
+ position: relative;
+top: 240px;
+
+}
+.Inicio-site h1
+{
+text-align: center;
+font-size: 37px;
+font-family: 'Inter', sans-serif;
+}
+#Figurinha1{
+font-size: 50px;
+ margin-left: 48%;
+ 
+}
+
+.Bloco-centralizar-Bloco-Carrosel-E-Informacao{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ padding-top: 40px;
+  
+}
+
+.Bloco-Carrosel-E-Informacao{
+width: 90%;
+border-radius: 10px;
+height: 550px;
+flex-wrap: wrap;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}.Bloco-Carrosel{
+  width: 430px;
+  height: 530px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}.Bloco-Informacao{
+  width: 500px;
+  height: 530px;
+}.Bloco-Informacao div{
+  padding: 20px;
+  font-size: 23px;
+  font-family: 'Inter', sans-serif;
+}.Bloco-Informacao div i{
+  font-size: 30px;
+}
+#Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload{
+  display: flex;
+ gap: 15px;
+ margin-left: 20%;
+}#Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload i{
+  font-size: 36px;
+  margin-top: 10px;
+}.Bloco-Informacao img{
+  width: 180px;
+  height: 60px;
+}
+#App-store-img{
+  width: 177px;
+  height: 50px;
+  margin-bottom: 5px;
+}
+#Mover-imagem-app-store-play-store{
+margin-left: 19%;
+margin-top: 10px;
+}
+
+
+
+
+.imagem-aplicativo{
+  width: 260px;
+  height: 530px;
+ 
+}
+
+
+
+
+#Titulo-site-do-meio{
+  margin-top: 120px;
+  font-size: 37px;
+ margin-bottom: 80px;
+
+}
+
+
+.Bloco-Logo-descricao-app{
+width: 100%;
+height: 400px;
+align-items: center;
+display: flex;
+margin-top: 10px;
+justify-content: space-between;
+
+
+}
+.Bloco-Domeio-logo{
+  width: 600px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 70px;
+  margin: 0 auto;
+  background-color: #7B68EE;
+
+}.Bloco-Domeio-logo div{
+  width: 370px;
+  height: 370px;
+  background-color: #cddadf;
+  border-radius: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 10px;
+}.Bloco-Domeio-logo div img{
+  height: 300px;
+  width: 300px;
+}
+
+.Bloco-Domeio-descricao{
+  width: 800px;
+ height: 400px;
+ 
+  margin: 0 auto;
+}
+
+.Bloco-Domeio-descricao h4{
+  font-family: 'Inter', sans-serif;
+  font-size: 25px;
+  margin-left: 3%;
+}
+.Bloco-Domeio-descricao p{
+  font-family: 'Inter', sans-serif;
+  font-size: 25px;
+font-weight: 700;
+color:rgb(0, 0, 0) ;
+margin-left: 50px;
+}
+
+
+
+
+/*  Regra de negocios, missao, vissao e valores  */
+
+
+
+.Fim-Do-Site{
+  width: 100%;
+  height: 250px;
+  background-color: #3a1ce0 ;
+  margin-top: 120px;
+  
+}.Fim-Do-Site div{
+  font-size: 25px;
+  font-family: 'Asap Condensed', sans-serif;
+  color: #f0f0f0;
+  margin-left: 70%;
+  padding: 15px;
+}.Fim-Do-Site div i{
+  font-size: 30px;
+  padding-left: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+#Link-fim-site{
+ color: #f0f0f0;
+ margin-left: 40%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+#Documentação-tcc{
+ text-align: center;
+ margin-top: 50px;
+ margin-left: 360px;
+}
+#Documentação-tcc a{
+text-decoration: none;
+color: black;
+position: relative;
+font-family: 'Heebo', sans-serif;
+font-size: 19px;
+}
+#Documentação-tcc a::after{
+  content: " ";
+  width: 0%;
+  height: 4px;
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  transition: 0.5s ease-in-out;
+}
+
+#Documentação-tcc a:hover::after{
+  width: 100%;
+}
+*/
+

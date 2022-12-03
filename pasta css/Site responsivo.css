@@ -1,0 +1,1394 @@
+@media only screen and (max-width: 1155px){
+
+  .Container{
+    width: 100%;
+    height: 1120px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+    flex-wrap: wrap;
+    background-color: #4125e2;
+    margin-top: 75px;
+    
+    
+    
+    }.Bloco-1{
+      width: 90%;
+      height: 650px;
+      margin-left: 0px;
+      margin-right: 10px;
+    
+      border-bottom: solid ;
+    }
+    
+    #Icone{
+      font-size: 80px;
+      margin-left: 30px;
+      margin-top: 10px;
+    }
+    #Bloco-Escrita{
+    margin-left: 10px;
+    margin-top: 10px;
+    }
+    
+    .Bloco-1 h1{
+      margin-left: 32px;
+      font-family: 'Inter', sans-serif;
+      font-size: 30px;
+     color: aliceblue;
+    
+     
+    }.Bloco-1 h4{
+      
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 35px;
+    margin-bottom: 10px;
+    }
+    
+    .Bloco-1 p{
+    
+      font-family: 'Inter', sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+    color: rgb(233, 239, 245);
+    
+    
+    }
+    #Button-Template{
+      margin-top: 10px;
+      margin-left: 70px;
+      width: 305px;
+      height: 50px;
+      border-radius: 100px;
+      border: 4px solid black;
+      font-family: 'Inter', sans-serif;
+      cursor: pointer;
+    }
+    #Button-Template i{
+      font-size: 18px;
+    }
+    
+    
+    .Bloco-2{
+      width: 400px;
+      height: 650px;
+      border-top-right-radius: 15px;
+      border-bottom-right-radius: 15px;
+    
+    }
+    
+    .Bloco-2 #Logo{
+    width: 400px;
+    height: 400px;
+    border-radius: 1000px;
+    display: flex;
+    background-color: #f0f0f0;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    
+    }
+    #Imagem-template-inicio-site{
+    width: 500px;
+    height: 420px;
+    position: relative;
+    bottom: 380px;
+    right: 30px;
+    }
+
+
+        
+        
+        /*  Caixa de template   */
+        
+        .Regra{
+        width: 750px;
+        margin-top: 40px;
+        background-color: #f5efef;
+        border-radius: 10px;
+        display: flex;
+        gap: 5px;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding-top: 5px;
+        position: relative;
+        bottom: 260px;
+        box-shadow: 1px 1px 10px 1px black;
+        }
+        #Caixa-1{
+            width: 230px;
+            height: 170px; 
+          border-right: 5px solid ;
+        }#Caixa-1 div{
+          width: 44px;
+          height: 44px;
+          border: 2px solid;
+          border-radius: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+        }
+        #Caixa-1 i{
+          font-size: 21px;
+        }#Caixa-1 h1{
+          text-align: center;
+          font-family: 'Asap Condensed', sans-serif;
+          font-size: 25px;
+        }#Caixa-1 p{
+          text-align: center;
+          font-family: 'Lato', sans-serif;
+          font-size: 15px;
+        }
+        #Caixa-2{
+            width: 230px;
+            height: 170px; 
+        
+          border-right: 5px solid ;
+        }#Caixa-2 div{
+            width: 44px;
+            height: 44px;
+          border: 2px solid;
+          border-radius: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+        }
+        #Caixa-2 i{
+            font-size: 21px;
+        }#Caixa-2 h1{
+          text-align: center;
+          font-family: 'Asap Condensed', sans-serif;
+          font-size: 25px;
+        }#Caixa-2 p{
+          text-align: center;
+          font-family: 'Lato', sans-serif;
+          font-size: 15px;
+        }
+        #Caixa-3{
+            width: 230px;
+            height: 170px; 
+         
+        }#Caixa-3 div{
+            width: 44px;
+            height: 44px;
+          border: 2px solid;
+          border-radius: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+        }
+        #Caixa-3 i{
+            font-size: 21px;
+        }#Caixa-3 h1{
+          text-align: center;
+          font-family: 'Asap Condensed', sans-serif;
+          font-size: 25px;
+        }#Caixa-3 p{
+            font-size: 15px;
+         font-family: 'Lato', sans-serif;
+         text-align: center;
+        }
+        
+        /* Descriação do Aplicativo - Lado da logo */
+
+        .Bloco-Domeio-descricao p{
+            font-family: 'Inter', sans-serif;
+            font-size: clamp(0.75em, 1em + 1vw, 1rem);
+          font-weight: 500;
+          color:rgb(0, 0, 0) ;
+          margin-left: 50px;
+          }
+
+
+          #Titulo-site-do-meio{
+            margin-top: 120px;
+            font-size: 37px;
+           margin-bottom: 80px;
+          
+          }
+          
+          
+          
+          .Bloco-Logo-descricao-app{
+          width: 100%;
+          height: 400px;
+          align-items: center;
+          margin-top: 50px;
+          display: flex;
+          justify-content: space-between;
+         
+          
+          }
+          .Bloco-Domeio-logo{
+            width: 600px;
+            height: 400px;
+            
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          
+          }.Bloco-Domeio-logo div{
+            width: 320px;
+            height: 320px;
+            background-color: #cddadf;
+            border-radius: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }.Bloco-Domeio-logo div img{
+            height: 250px;
+            width: 250px;
+          }
+          
+          .Bloco-Domeio-descricao{
+            width: 800px;
+           height: 400px;
+            
+            margin: 0 auto;
+          }
+          .Bloco-Domeio-descricao i{
+            color:azure;
+            font-size: 50px;
+            margin-top: 10px;
+            margin-left: 20px;
+          }
+          .Bloco-Domeio-descricao p{
+            font-family: 'Inter', sans-serif;
+            font-size: clamp(1em, 1em + 1vw, 1.25rem);
+          font-weight: 700;
+          color:rgb(0, 0, 0) ;
+          margin-left: 50px;
+          }
+          
+           
+}
+
+@media only screen and (max-width: 1072px){
+
+
+  .Bloco-centralizar-Bloco-Carrosel-E-Informacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 40px;
+    
+  }
+  
+  .Bloco-Carrosel-E-Informacao{
+  width: 90%;
+  border-radius: 10px;
+  height: 550px;
+flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  }.Bloco-Carrosel{
+    width: 300px;
+    height: 530px;
+ 
+  }.Bloco-Informacao{
+    width: 350px;
+    height: 530px;
+  }.Bloco-Informacao div{
+    padding: 20px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+  }.Bloco-Informacao div i{
+    font-size: 30px;
+  }
+  #Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload{
+    display: flex;
+   gap: 15px;
+   margin-left: 20%;
+  }#Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload i{
+    font-size: 36px;
+    margin-top: 10px;
+  }.Bloco-Informacao img{
+    width: 100px;
+    height: 50px;
+  }
+  #App-store-img{
+    width: 100px;
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  #Mover-imagem-app-store-play-store{
+  margin-left: 19%;
+  margin-top: 10px;
+  }
+  
+  
+  
+  
+  .imagem-aplicativo{
+    width: 210px;
+    height: 480px;
+   
+  }
+  
+
+
+
+}
+
+
+@media only screen and (max-width: 865px){
+
+    .Container{
+        width: 100%;
+        height: 1120px;
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 60px;
+        flex-wrap: wrap;
+        background-color: #4125e2;
+        margin-top: 75px;
+        
+        
+        
+        }.Bloco-1{
+          width: 90%;
+          height: 650px;
+          margin-left: 0px;
+          margin-right: 10px;
+        
+          border-bottom: solid ;
+        }
+        
+        #Icone{
+          font-size: 80px;
+          margin-left: 30px;
+          margin-top: 10px;
+        }
+        #Bloco-Escrita{
+        margin-left: 10px;
+        margin-top: 10px;
+        }
+        
+        .Bloco-1 h1{
+          margin-left: 32px;
+          font-family: 'Inter', sans-serif;
+          font-size: 30px;
+         color: aliceblue;
+        
+         
+        }.Bloco-1 h4{
+          
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 35px;
+        margin-bottom: 10px;
+        }
+        
+        .Bloco-1 p{
+        
+          font-family: 'Inter', sans-serif;
+        font-size: 26px;
+        font-weight: 500;
+        color: rgb(233, 239, 245);
+        
+        
+        }
+        #Button-Template{
+          margin-top: 10px;
+          margin-left: 70px;
+          width: 305px;
+          height: 50px;
+          border-radius: 100px;
+          border: 4px solid black;
+          font-family: 'Inter', sans-serif;
+          cursor: pointer;
+        }
+        #Button-Template i{
+          font-size: 18px;
+        }
+        
+        
+        .Bloco-2{
+          width: 400px;
+          height: 650px;
+          border-top-right-radius: 15px;
+          border-bottom-right-radius: 15px;
+        
+        }
+        
+        .Bloco-2 #Logo{
+        width: 400px;
+        height: 400px;
+        border-radius: 1000px;
+        display: flex;
+        background-color: #f0f0f0;
+        position: relative;
+        top: 20px;
+        left: 30px;
+        
+        }
+        #Imagem-template-inicio-site{
+        width: 500px;
+        height: 420px;
+        position: relative;
+        bottom: 380px;
+        right: 30px;
+        }
+        
+        
+        /*  Caixa de template   */
+        
+        .Regra{
+        width: 90%;
+        margin-top: 40px;
+        background-color: #f5efef;
+        border-radius: 10px;
+        display: flex;
+        gap: 5px;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding-top: 5px;
+        position: relative;
+        bottom: 270px;
+        box-shadow: 1px 1px 10px 1px black;
+        }
+        #Caixa-1{
+            width: 210px;
+            height: 170px; 
+          border-right: 5px solid ;
+        }#Caixa-1 div{
+          width: 44px;
+          height: 44px;
+          border: 2px solid;
+          border-radius: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+        }
+        #Caixa-1 i{
+          font-size: 21px;
+        }#Caixa-1 h1{
+          text-align: center;
+          font-family: 'Asap Condensed', sans-serif;
+          font-size: 25px;
+        }#Caixa-1 p{
+          text-align: center;
+          font-family: 'Lato', sans-serif;
+          font-size: 15px;
+        }
+        #Caixa-2{
+            width: 210px;
+            height: 170px; 
+        
+          border-right: 5px solid ;
+        }#Caixa-2 div{
+            width: 44px;
+            height: 44px;
+          border: 2px solid;
+          border-radius: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+        }
+        #Caixa-2 i{
+            font-size: 21px;
+        }#Caixa-2 h1{
+          text-align: center;
+          font-family: 'Asap Condensed', sans-serif;
+          font-size: 25px;
+        }#Caixa-2 p{
+          text-align: center;
+          font-family: 'Lato', sans-serif;
+          font-size: 15px;
+        }
+        #Caixa-3{
+            width: 210px;
+            height: 170px; 
+         
+        }#Caixa-3 div{
+            width: 44px;
+            height: 44px;
+          border: 2px solid;
+          border-radius: 100px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0 auto;
+        }
+        #Caixa-3 i{
+            font-size: 21px;
+        }#Caixa-3 h1{
+          text-align: center;
+          font-family: 'Asap Condensed', sans-serif;
+          font-size: 25px;
+        }#Caixa-3 p{
+            font-size: 15px;
+         font-family: 'Lato', sans-serif;
+         text-align: center;
+        }
+        
+        /* Descriação do Aplicativo - Lado da logo */
+
+        .Bloco-Domeio-descricao p{
+            font-family: 'Inter', sans-serif;
+            font-size: clamp(0.75em, 1em + 1vw, 1rem);
+          font-weight: 700;
+          color:rgb(0, 0, 0) ;
+          margin-left: 50px;
+          }
+
+
+          .Bloco-Carrosel-E-Informacao{
+            width: 90%;
+            border-radius: 10px;
+            height: 600px;
+            flex-wrap: wrap;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+            }
+            .Bloco-Logo-descricao-app{
+              width: 100%;
+              height: 400px;
+              align-items: center;
+              margin-top: 50px;
+              display: flex;
+              justify-content: space-between;
+             
+              
+              }
+              .Bloco-Domeio-logo{
+                width: 500px;
+                height: 300px;
+                
+                display: flex;
+                align-items: center;
+                justify-content: center;
+              
+              }.Bloco-Domeio-logo div{
+                width: 220px;
+                height: 220px;
+                background-color: #cddadf;
+                border-radius: 200px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+              }.Bloco-Domeio-logo div img{
+                height: 200px;
+                width: 200px;
+              }
+              
+          
+           
+
+}
+
+
+@media only screen and (max-width: 844px){
+
+    .Inicio-site{
+        position: relative;
+       top: 130px;
+       
+       }
+       .Inicio-site h1
+       {
+       text-align: center;
+       font-size: 30px;
+       font-family: 'Inter', sans-serif;
+       }
+       #Figurinha1{
+       font-size: 50px;
+        margin-left: 48%;
+       }
+       
+      
+       
+}
+
+@media only screen and (max-width: 788px){
+
+    
+       
+       .Bloco-centralizar-Bloco-Carrosel-E-Informacao{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         margin-top: 30px;
+         
+       }.Bloco-Carrosel{
+        width: 330px;
+        height: 590px;
+     
+      }
+       .Bloco-Informacao{
+        width: 500px;
+        height: 530px;
+      
+    }.Bloco-Informacao div{
+      padding: 20px;
+      font-size: 25px;
+      font-family: 'Inter', sans-serif;
+    }.Bloco-Informacao div i{
+      font-size: 30px;
+    }
+    #Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload{
+      display: flex;
+     gap: 15px;
+     margin-left: 20%;
+    }#Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload i{
+      font-size: 36px;
+      margin-top: 10px;
+    }
+    
+    #Mover-imagem-app-store-play-store{
+    margin-left: 19%;
+    margin-top: 10px;
+    }
+    
+    
+    
+    
+    .imagem-aplicativo{
+      width: 260px;
+      height: 530px;
+     
+    }
+
+       #Mover-imagem-app-store-play-store{
+        margin-left: 37%;
+        margin-top: 10px;
+        }
+       
+       #Titulo-site-do-meio{
+        font-size: 37px;
+       margin-bottom: 10px;
+       padding-bottom: 0px;
+       margin-top: 550px;
+      }
+    }
+
+
+@media only screen and (max-width: 755px){
+
+    .Container{
+        width: 100%;
+        height: 1300px;
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 60px;
+        flex-wrap: wrap;
+        background-color: #4125e2;
+        margin-top: 75px;
+        
+        }
+
+        .Regra{
+            width: 85%;
+            height: 350px; 
+            margin-top: 40px;
+            background-color: #f5efef;
+            border-radius: 10px;
+            display: flex;
+            gap: 5px;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            padding-top: 5px;
+            position: relative;
+            bottom: 270px;
+            box-shadow: 1px 1px 10px 1px black;
+            }
+            #Caixa-1{
+                width: 210px;
+                height: 140px; 
+              border-bottom: 5px solid ;
+              border-right: 0px solid;
+            }#Caixa-1 div{
+              width: 44px;
+              height: 44px;
+              border: 2px solid;
+              border-radius: 100px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto;
+            }
+            #Caixa-1 i{
+              font-size: 21px;
+            }#Caixa-1 h1{
+              text-align: center;
+              font-family: 'Asap Condensed', sans-serif;
+              font-size: 25px;
+            }#Caixa-1 p{
+              text-align: center;
+              font-family: 'Lato', sans-serif;
+              font-size: 15px;
+            }
+            #Caixa-2{
+                width: 210px;
+                height: 140px; 
+                border-bottom: 5px solid ;
+                border-right: 0px solid;
+            }#Caixa-2 div{
+                width: 44px;
+                height: 44px;
+              border: 2px solid;
+              border-radius: 100px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto;
+            }
+            #Caixa-2 i{
+                font-size: 21px;
+            }#Caixa-2 h1{
+              text-align: center;
+              font-family: 'Asap Condensed', sans-serif;
+              font-size: 25px;
+            }#Caixa-2 p{
+              text-align: center;
+              font-family: 'Lato', sans-serif;
+              font-size: 15px;
+            }
+            #Caixa-3{
+                width: 210px;
+                height: 150px; 
+                
+                border-bottom: 5px solid ;
+            }#Caixa-3 div{
+                width: 44px;
+                height: 44px;
+              border: 2px solid;
+              border-radius: 100px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto;
+            }
+            #Caixa-3 i{
+                font-size: 21px;
+            }#Caixa-3 h1{
+              text-align: center;
+              font-family: 'Asap Condensed', sans-serif;
+              font-size: 25px;
+            }#Caixa-3 p{
+                font-size: 15px;
+             font-family: 'Lato', sans-serif;
+             text-align: center;
+            }
+            #Mover-imagem-app-store-play-store{
+                margin-left: 7%;
+                margin-top: 10px;
+                }
+    
+
+
+}
+@media only screen and (max-width: 700px){
+
+    .Bloco-Logo-descricao-app{
+        width: 100%;
+        height: 400px;
+        align-items: center;
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-bottom: 450px;
+        }
+        .Bloco-Domeio-logo{
+          width: 100%;
+          height: 400px;
+          background-color: #7B68EE;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      
+        
+        }.Bloco-Domeio-logo div{
+          width: 320px;
+          height: 320px;
+          background-color: #cddadf;
+          border-radius: 200px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }.Bloco-Domeio-logo div img{
+          height: 250px;
+          width: 250px;
+        }
+        
+        .Bloco-Domeio-descricao{
+          width: 100%;
+         height: 400px;
+          margin: 0 auto;
+        }
+        .Bloco-Domeio-descricao i{
+          color:azure;
+          font-size: 50px;
+          margin-top: 10px;
+          margin-left: 20px;
+        }
+        .Bloco-Domeio-descricao p{
+          font-family: 'Inter', sans-serif;
+          font-size: clamp(1em, 1em + 1vw, 1.25rem);
+        font-weight: 700;
+        color:rgb(0, 0, 0) ;
+        margin-left: 50px;
+        }
+      
+         
+
+
+}
+
+@media only screen and (max-width: 580px){
+
+    .Container{
+        width: 100%;
+        height: 1200px;
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 60px;
+        flex-wrap: wrap;
+        background-color: #4125e2;
+        margin-top: 75px;
+        
+        
+        
+        }.Bloco-1{
+          width: 90%;
+          height: 650px;
+          margin-left: 0px;
+          margin-right: 10px;
+        
+          border-bottom: solid ;
+        }
+        
+        #Icone{
+          font-size: 60px;
+          margin-left: 30px;
+          margin-top: 10px;
+        }
+        #Bloco-Escrita{
+        margin-left: 10px;
+        margin-top: 10px;
+        }
+        
+        .Bloco-1 h1{
+          margin-left: 32px;
+          font-family: 'Inter', sans-serif;
+          font-size: 20px;
+         color: aliceblue;
+        
+         
+        }.Bloco-1 h4{
+          
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 35px;
+        margin-bottom: 10px;
+        }
+        
+        .Bloco-1 p{
+        
+          font-family: 'Inter', sans-serif;
+        font-size: 22px;
+        font-weight: 500;
+        color: rgb(233, 239, 245);
+        
+        
+        }
+        #Button-Template{
+          margin-top: 10px;
+          margin-left: 30px;
+          width: 305px;
+          height: 50px;
+          border-radius: 100px;
+          border: 4px solid black;
+          font-family: 'Inter', sans-serif;
+          cursor: pointer;
+        }
+        #Button-Template i{
+          font-size: 18px;
+        }
+        
+        
+        .Bloco-2{
+          width: 400px;
+          height: 650px;
+          border-top-right-radius: 15px;
+          border-bottom-right-radius: 15px;
+        
+        }
+        
+        .Bloco-2 #Logo{
+        width: 300px;
+        height: 300px;
+        border-radius: 1000px;
+        display: flex;
+        background-color: #f0f0f0;
+        position: relative;
+        top: 20px;
+        left: 90px;
+        
+        }
+        #Imagem-template-inicio-site{
+        width: 380px;
+        height: 350px;
+        position: relative;
+        bottom: 280px;
+        left: 30px;
+        }
+        .Regra{
+            width: 85%;
+            height: 350px; 
+            margin-top: 40px;
+            background-color: #f5efef;
+            border-radius: 10px;
+            display: flex;
+            gap: 5px;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            padding-top: 5px;
+            position: relative;
+            bottom: 330px;
+            box-shadow: 1px 1px 10px 1px black;
+            }
+            #Caixa-1{
+                width: 210px;
+                height: 140px; 
+              border-bottom: 5px solid ;
+              border-right: 0px solid;
+            }#Caixa-1 div{
+              width: 44px;
+              height: 44px;
+              border: 2px solid;
+              border-radius: 100px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto;
+            }
+            #Caixa-1 i{
+              font-size: 21px;
+            }#Caixa-1 h1{
+              text-align: center;
+              font-family: 'Asap Condensed', sans-serif;
+              font-size: 25px;
+            }#Caixa-1 p{
+              text-align: center;
+              font-family: 'Lato', sans-serif;
+              font-size: 15px;
+            }
+            #Caixa-2{
+                width: 210px;
+                height: 140px; 
+                border-bottom: 5px solid ;
+                border-right: 0px solid;
+            }#Caixa-2 div{
+                width: 44px;
+                height: 44px;
+              border: 2px solid;
+              border-radius: 100px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto;
+            }
+            #Caixa-2 i{
+                font-size: 21px;
+            }#Caixa-2 h1{
+              text-align: center;
+              font-family: 'Asap Condensed', sans-serif;
+              font-size: 25px;
+            }#Caixa-2 p{
+              text-align: center;
+              font-family: 'Lato', sans-serif;
+              font-size: 15px;
+            }
+            #Caixa-3{
+                width: 210px;
+                height: 150px; 
+                
+                border-bottom: 5px solid ;
+            }#Caixa-3 div{
+                width: 44px;
+                height: 44px;
+              border: 2px solid;
+              border-radius: 100px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              margin: 0 auto;
+            }
+            #Caixa-3 i{
+                font-size: 21px;
+            }#Caixa-3 h1{
+              text-align: center;
+              font-family: 'Asap Condensed', sans-serif;
+              font-size: 25px;
+            }#Caixa-3 p{
+                font-size: 15px;
+             font-family: 'Lato', sans-serif;
+             text-align: center;
+            }
+
+            .Inicio-site{
+                position: relative;
+               top: 190px;
+               
+               }
+               #Titulo-site-do-meio{
+                font-size: 37px;
+               margin-bottom: 70px;
+               padding-bottom: 20px;
+               margin-top: 650px;
+              }
+}
+
+
+@media only screen and (max-width: 532px){
+
+    .Regra{
+        width: 85%;
+        height: 478px; 
+        margin-top: 40px;
+        background-color: #f5efef;
+        border-radius: 10px;
+        display: flex;
+        gap: 5px;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        padding-top: 5px;
+        position: relative;
+        bottom: 330px;
+        box-shadow: 1px 1px 10px 1px black;
+        }  #Caixa-3{
+            width: 210px;
+            height: 150px; 
+            
+            border-bottom: 0px solid ;
+        }
+
+        .Inicio-site{
+            position: relative;
+           top: 290px;
+           
+           }
+
+
+
+
+           #Titulo-site-do-meio{
+            font-size: 30px;
+           margin-bottom: 70px;
+           padding-bottom: 20px;
+          }
+          
+          
+          .Bloco-Logo-descricao-app{
+          width: 100%;
+          height: 400px;
+          align-items: center;
+          margin-top: 50px;
+          display: flex;
+          justify-content: space-between;
+          
+          
+          }
+          .Bloco-Domeio-logo{
+            width: 600px;
+            height: 400px;
+            background-color: #7B68EE;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          
+          }.Bloco-Domeio-logo div{
+            width: 300px;
+            height: 300px;
+            background-color: #cddadf;
+            border-radius: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+          }.Bloco-Domeio-logo div img{
+            height: 270px;
+            width: 270px;
+          }
+          
+          .Bloco-Domeio-descricao{
+            width: 800px;
+           height: 400px;
+          
+            margin: 0 auto;
+          }
+          .Bloco-Domeio-descricao i{
+            color:azure;
+            font-size: 50px;
+            margin-top: 10px;
+            margin-left: 20px;
+          }
+          .Bloco-Domeio-descricao p{
+            font-family: 'Inter', sans-serif;
+            font-size: 17px;
+          font-weight: 700;
+          color:rgb(0, 0, 0) ;
+          margin-left: 50px;
+
+          }
+          
+          
+          
+          
+          
+
+}
+
+@media only screen and (max-width: 433px){
+
+  .Container{
+    width: 100%;
+    height: 1150px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+    flex-wrap: wrap;
+    background-color: #4125e2;
+    margin-top: 75px;
+    
+    
+    
+    }.Bloco-1{
+      width: 90%;
+      height: 650px;
+      margin-left: 0px;
+      margin-right: 10px;
+    
+      border-bottom: solid ;
+    }
+    
+    #Icone{
+      font-size: 60px;
+      margin-left: 30px;
+      margin-top: 10px;
+    }
+    #Bloco-Escrita{
+    margin-left: 10px;
+    margin-top: 10px;
+    }
+    
+    .Bloco-1 h1{
+      margin-left: 32px;
+      font-family: 'Inter', sans-serif;
+      font-size: 17px;
+     color: aliceblue;
+    
+     
+    }.Bloco-1 h4{
+      
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 31px;
+    margin-bottom: 10px;
+    }
+    
+    .Bloco-1 p{
+    
+      font-family: 'Inter', sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+    color: rgb(233, 239, 245);
+    
+    
+    }
+    #Button-Template{
+      margin-top: 10px;
+      margin-left: 30px;
+      width: 225px;
+      height: 50px;
+      border-radius: 100px;
+      border: 4px solid black;
+      font-family: 'Inter', sans-serif;
+      cursor: pointer;
+    }
+    #Button-Template i{
+      font-size: 18px;
+    }
+
+
+    .Bloco-2{
+      width: 400px;
+      height: 650px;
+      border-top-right-radius: 15px;
+      border-bottom-right-radius: 15px;
+    
+    
+    }
+    
+    .Bloco-2 #Logo{
+    width: 220px;
+    height: 220px;
+    border-radius: 50px;
+    display: flex;
+    background-color: #f0f0f0;
+    border: solid 5px;
+    position: relative;
+    top: 40px;
+   left: 15%;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    #Imagem-template-inicio-site{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    bottom: 170px;
+    left: 30px;
+    visibility: hidden;
+    }
+    #imagem-template-mobile-inicio-site{
+      width: 170px;
+    height: 170px;
+  visibility: visible;
+    }
+    .Regra{
+      width: 85%;
+      height: 478px; 
+      margin-top: 40px;
+      background-color: #f5efef;
+      border-radius: 10px;
+      display: flex;
+      gap: 5px;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      padding-top: 5px;
+      position: relative;
+      bottom: 380px;
+      box-shadow: 1px 1px 10px 1px black;
+      } 
+      .Bloco-Logo-descricao-app{
+        gap: 40px;
+      }
+    
+
+      .Bloco-Logo-descricao-app{
+        width: 100%;
+        height: 400px;
+        align-items: center;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        
+        }
+        .Bloco-Domeio-logo{
+          width: 600px;
+          height: 400px;
+          background-color: #7B68EE;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        
+        }.Bloco-Domeio-logo div{
+          width: 280px;
+          height: 280px;
+          background-color: #cddadf;
+          border-radius: 200px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }.Bloco-Domeio-logo div img{
+          height: 220px;
+          width: 220px;
+        }
+        .Bloco-centralizar-Bloco-Carrosel-E-Informacao{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+         padding-top: 40px;
+          
+        }
+        
+        .Bloco-Carrosel-E-Informacao{
+        width: 90%;
+        border-radius: 10px;
+        height: 550px;
+      flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        }.Bloco-Carrosel{
+          width: 300px;
+          height: 530px;
+       
+        }.Bloco-Informacao{
+          width: 350px;
+          height: 430px;
+        
+        }.Bloco-Informacao div{
+          padding: 20px;
+          font-size: 18px;
+          font-family: 'Inter', sans-serif;
+        }.Bloco-Informacao div i{
+          font-size: 30px;
+        }
+        #Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload{
+          display: flex;
+         gap: 15px;
+         margin-left: 20%;
+        }#Bloco-Informacao-Figurinha-do-meio-pagina-encima-img-dowload i{
+          font-size: 36px;
+          margin-top: 10px;
+        }.Bloco-Informacao img{
+          width: 90px;
+          height: 43px;
+        }
+        #App-store-img{
+          width: 90px;
+          height: 35px;
+          margin-bottom: 5px;
+        }
+        #Mover-imagem-app-store-play-store{
+        
+        margin-top: 10px;
+        }
+        
+        
+        
+        
+        .imagem-aplicativo{
+          width: 210px;
+          height: 480px;
+         
+        }
+        
+        #Titulo-site-do-meio{
+          margin-top: 530px;
+          font-size: 27px;
+          margin-bottom: 0px;
+        }
+
+      
+      }
+
+
+
