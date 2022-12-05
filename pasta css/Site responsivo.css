@@ -209,7 +209,7 @@
           #Titulo-site-do-meio{
             margin-top: 120px;
             font-size: 37px;
-           margin-bottom: 80px;
+        
           
           }
           
@@ -670,8 +670,8 @@ flex-wrap: wrap;
        
        #Titulo-site-do-meio{
         font-size: 37px;
-       margin-bottom: 10px;
-       padding-bottom: 0px;
+     
+       
        margin-top: 550px;
       }
     }
@@ -1054,8 +1054,8 @@ flex-wrap: wrap;
                }
                #Titulo-site-do-meio{
                 font-size: 37px;
-               margin-bottom: 70px;
-               padding-bottom: 20px;
+               
+              
                margin-top: 650px;
               }
 }
@@ -1096,8 +1096,8 @@ flex-wrap: wrap;
 
            #Titulo-site-do-meio{
             font-size: 30px;
-           margin-bottom: 70px;
-           padding-bottom: 20px;
+           margin-bottom: 10px;
+      
           }
           
           
@@ -1285,6 +1285,12 @@ flex-wrap: wrap;
       bottom: 380px;
       box-shadow: 1px 1px 10px 1px black;
       } 
+      #Titulo-site-do-meio{
+        margin-top: 120px;
+        font-size: 37px;
+       margin-bottom: 80px;
+      
+      }
       .Bloco-Logo-descricao-app{
         gap: 40px;
       }
@@ -1294,7 +1300,7 @@ flex-wrap: wrap;
         width: 100%;
         height: 400px;
         align-items: center;
-        margin-top: 50px;
+      
         display: flex;
         justify-content: space-between;
         
@@ -1384,7 +1390,7 @@ flex-wrap: wrap;
         #Titulo-site-do-meio{
           margin-top: 530px;
           font-size: 27px;
-          margin-bottom: 0px;
+        
         }
 
       
